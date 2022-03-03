@@ -2,7 +2,7 @@
 # Autor: Denilsom Lobo de Souza
 # Data do início: 02/12/2021
 # Data do término: 02/12/2021
-# Atividade avaliativa.
+# Programa treino casual.
 
 # Programa que joga com um Npc. Pedra, Papel ou Tesoura.
 
